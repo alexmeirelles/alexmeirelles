@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá! 👋
+### Sou Profissional de Marketing com mais de 10 anos de experiência, última atuação como Empreendedor Digital com forte atuação em Estratégia, Comunicação e Mídias Sociais. Atualmente buscando recolocação em T.I.
 
 <!--
 **alexmeirelles/alexmeirelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +29,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-
 
 
 ### Estou aprendendo
