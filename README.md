@@ -1,5 +1,10 @@
 ### Olá! 👋
-### Sou Profissional de Marketing com mais de 10 anos de experiência, última atuação como Empreendedor Digital com forte atuação em Estratégia, Comunicação e Mídias Sociais. Atualmente buscando recolocação em T.I.
+### Estudo Programação Full Stack na BlueEdTech, onde desenvolvo aperfeiçoamento em Lógica de Programação, JavaScript, NodeJS, ReactJS, HTML5, CSS3. 
+Além disso, possuo 12 Anos de experiência nas Áreas de Marketing/Marketing Digital.
+Atuei em comunicação corporativa, sendo responsável pelo planejamento, desenvolvimento de estratégias, planos de comunicação, atendimento ao cliente, elaboração de briefing e de cronograma de atividades. 
+Realizei análises de mercado, avaliando as tendências de mídia e novas necessidades do meio empresarial.
+Atuei fortemente no desenvolvimento de produtos, ativação de novos negócios e negociações.
+Coordenei e executei Patrocínios, Promoções, Eventos e Planejamentos de Marketing.
 
 <!--
 **alexmeirelles/alexmeirelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
