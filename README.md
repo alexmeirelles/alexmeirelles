@@ -1,5 +1,5 @@
 ### Olá! 👋
-### Estudo Programação Full Stack na BlueEdTech, onde desenvolvo aperfeiçoamento em Lógica de Programação, JavaScript, NodeJS, ReactJS, HTML5, CSS3. 
+### Desenvolvedor Full Stack pela BlueEdTech. Lógica de Programação, JavaScript, NodeJS, ReactJS, HTML5, CSS3. 
 Além disso, possuo 12 Anos de experiência nas Áreas de Marketing/Marketing Digital.
 Atuei em comunicação corporativa, sendo responsável pelo planejamento, desenvolvimento de estratégias, planos de comunicação, atendimento ao cliente, elaboração de briefing e de cronograma de atividades. 
 Realizei análises de mercado, avaliando as tendências de mídia e novas necessidades do meio empresarial.
