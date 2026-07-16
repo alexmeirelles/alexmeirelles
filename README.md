@@ -9,9 +9,9 @@
 
 ## 👨‍💼 Sobre mim
 
-Sou desenvolvedor Full Stack com sólida base em tecnologias modernas de desenvolvimento web.
-
-Além disso, possuo **20 anos de experiência** nas áreas de **Marketing e Marketing Digital**. Atuei em comunicação corporativa, sendo responsável pelo planejamento e desenvolvimento de estratégias, planos de comunicação, atendimento ao cliente, elaboração de briefing e cronograma de atividades. Realizei análises de mercado, avaliando tendências de mídia e novas necessidades do meio empresarial. Atuei fortemente no desenvolvimento de produtos, ativação de novos negócios e negociações. Coordenei e executei Patrocínios, Promoções, Eventos e Planejamentos de Marketing.
+Estrategista de Marketing e Comunicação potencializado por IA, com histórico em audiência, social media e marketing político.
+Criei plataformas como Oktal.app e Racionalistas.com.br, unindo modelos mentais, IA generativa e automações para apoiar decisões.
+Base técnica em Desenvolvimento Full Stack (JavaScript, NodeJS, React, HTML, CSS) aplicada a produtos e estratégias digitais.
 
 
 ## 🛠️ Ferramentas e Tecnologias
